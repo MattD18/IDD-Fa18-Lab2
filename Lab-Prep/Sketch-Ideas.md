@@ -1,6 +1,6 @@
 1)	Timer to record how long you open fridge door for. Keeps a running average of how long you keep the door open for and encourages you to minimize this time.
 
-![](https://github.com/MattD18/IDD-Fa18-Lab2/blob/master/Lab-Prep/IMG_2277.JPG)
+
 
 2)	Timer for how long the tram takes to go there and back.
 
