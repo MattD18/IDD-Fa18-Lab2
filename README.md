@@ -24,14 +24,33 @@ Include your responses to the bold questions on your own fork of [this lab repor
  
 **a. What voltage level do you need to power your display?**
 
+We need 5V to power the display, with power through the VDD node and ground through the VSS node.
+
 **b. What voltage level do you need to power the display backlight?**
+
+We need 3V to power the display backlight, with power through the A node and ground through the K node.
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+Fortunately, I didn't have any major mistakes in wiring up the display. I found that color coding my wires was helpful (orange for power, blue for ground, white for others). Also, I didn't realize my display was working until I adjusted by 10K pot.
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+
+Within setup(), I needed to change the lcd.print() command.
+
+```
+void setup() {
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+  // Print a message to the LCD.
+  lcd.print("hello, Matt!");
+}
+```
+
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
+Add link 
 
 ## Part C. Using a time-based digital sensor
 
