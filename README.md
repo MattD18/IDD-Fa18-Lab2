@@ -50,7 +50,7 @@ void setup() {
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-
+https://github.com/MattD18/IDD-Fa18-Lab2/blob/master/lowly_multimeter.ino
 
 ## Part C. Using a time-based digital sensor
 
@@ -81,6 +81,9 @@ https://www.youtube.com/watch?v=7o0EPOPa0BM
 
 Code:
 
+https://github.com/MattD18/IDD-Fa18-Lab2/blob/master/chess_clock.ino
 
 
-**b. Post a link to the completed lab report your class hub GitHub repo.**
+**b. Post a link to the completed lab report in your class hub GitHub repo.**
+
+Please see class repo
