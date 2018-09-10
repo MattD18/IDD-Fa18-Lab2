@@ -60,9 +60,16 @@ Add link
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+In setup(), I added the line:
+
+```
+noteDurations[thisNote] = noteDurations[thisNote] * 2;
+```
  
 **b. What song is playing?**
 
+Star Wars!!
 
 ## Part E. Make your own timer
 
