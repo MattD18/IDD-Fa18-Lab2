@@ -18,7 +18,7 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 ## Part A. Solder your LCD panel
 
-**Take a picture of your soldered panel and add it here!**
+![Soldered LCD](https://github.com/MattD18/IDD-Fa18-Lab2/blob/master/IMG_2349.JPG)
 
 ## Part B. Writing to the LCD
  
@@ -50,11 +50,11 @@ void setup() {
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-Add link 
+
 
 ## Part C. Using a time-based digital sensor
 
-**Upload a video of your working rotary encoder here.**
+![Working Rotary Encoder](https://github.com/MattD18/IDD-Fa18-Lab2/blob/master/IMG_2350.MOV)
 
 
 ## Part D. Make your Arduino sing!
@@ -74,5 +74,13 @@ Star Wars!!
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
+Chess Clock:
+
+https://www.youtube.com/watch?v=7o0EPOPa0BM
+
+Code:
+
+
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
